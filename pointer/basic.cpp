@@ -8,4 +8,6 @@ int main(){
     cout<<"Address of a: "<<&a<<endl;
     cout<<"Value of p: "<<p<<endl;
     cout<<"Value pointed by p: "<<*p<<endl;
+    *p=10;
+    cout<<"New value of a: "<<a<<endl;
 } 
