@@ -7,5 +7,6 @@ int main(){
     for(int i=1;i<=n;i++){
         cout<<i<<" ";
         cout<<"Hello World"<<endl;
+        cout<<"This is a for loop example"<<endl;
     }
 }
