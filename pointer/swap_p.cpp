@@ -10,4 +10,5 @@ int main(){
     cout<<"Before swapping: a="<<a<<" b="<<b<<endl;
     swap(&a, &b);
     cout<<"After swapping: a="<<a<<" b="<<b<<endl; 
+    cout<<"This is a pointer example"<<endl;
 }
